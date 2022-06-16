@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails, JavaScript**
 
-- 📝 I regularly write articles on [viperfangs.com](viperfangs.com)
+- 📝 I regularly write articles on [viperfangs.com](https://viperfangs.com)
 
 - 📫 How to reach me **amathrej@asu.edu**
 
