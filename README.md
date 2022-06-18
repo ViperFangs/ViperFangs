@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viperfangs" alt="viperfangs" /></a> </p>
 
-- 🔭 I’m currently working on [Ruby Hangman](https://github.com/ViperFangs/ruby_hangman)
-
 - 🌱 I’m currently learning **Ruby on Rails, JavaScript**
 
 - 📝 I regularly write articles on [viperfangs.com](https://viperfangs.com)
