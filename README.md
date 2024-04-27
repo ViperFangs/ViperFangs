@@ -3,15 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viperfangs" alt="viperfangs" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby on Rails, JavaScript**
+- 🌱 I’m currently learning **AWS, Ruby on Rails, and React Native**
 
-- 📝 I regularly write articles on [viperfangs.com](https://viperfangs.com)
+- 📝 You can find my website at [viperfangs.com](https://viperfangs.com)
 
 - 📫 How to reach me **amathrej@asu.edu**
 
-- ⚡ Fun fact **I finished the foundational course at https://www.theodinproject.com/ in less than 2 weeks**
-
-- https://www.viperfangs.com 
+- ⚡ **I support the Odin Project at https://www.theodinproject.com/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
